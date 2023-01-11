@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>...<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+  <h1><center>PORTAFOLIO EN HTML</center></h1>  
+  
+</head>
+<body style = "background-color:  Moccasin">
+  <h4><center> Experiencia<center></h4>
+    <p> No cuento con experiencia como programador, si con otros trabajo como mozo</p>
+  <h4><center>Estudios<center></h4>
+ <p> Secundaria completa en DAD (Departamento de Aplicacion Docente), y universitario en curso (Ingenieria en sistemas en la UTN, Mendoza).</p>
+  <h4><center> Acerca de mi<center> </h4>
+ <p> Me considero como una persona proactiva, con muchas ganas de aprender y con habilidad para trabajar en grupo</p>
+    <h4><center> Proyectos <center> </h4>
+      no tengo ninguno todavia
+ <br>
+ <br>
+ <br>
+ <br>
+ 
+ 
+ 
+      <img  src = "https://www.google.com/search?q=programmer+portfolio&tbm=isch&ved=2ahUKEwiu9bPsn778AhXSB9QKHRa_BPEQ2-cCegQIABAA&oq=program&gs_lcp=CgNpbWcQARgAMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMggIABCABBCxAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIICAAQgAQQsQM6BAgjECc6BAgAEB46BggAEAUQHjoHCCMQ6gIQJzoECAAQA1C8DVjDZGCxe2gQcAB4A4AB1gGIAZsckgEGNC4xOS4zmAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=LgG-Y66mM9KP0AaW_pKIDw&bih=649&biw=1366#imgrc=T-2ouSg9qK5mxM"  alt = "foto programador"  />
+  
+  </body>
+ 
+      
+  
+
+</html>
